@@ -1,0 +1,13 @@
+{
+  "name": "my-game",
+  "version": "1.0.0",
+  "dependencies": [
+    "gamenetworkingsockets",
+    {
+      "name": "protobuf",
+      "default-features": false
+    }
+  ],
+  "default-features": [],
+  "overrides": []
+}
